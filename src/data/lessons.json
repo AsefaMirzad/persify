@@ -1,0 +1,523 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Grundlagen & Begrüßungen",
+      "level": "Anfänger",
+      "category": "Sprache",
+      "duration": "15 min",
+      "completed": false,
+      "vocabulary": [
+        {
+          "farsi": "سلام",
+          "romanization": "salām",
+          "german": "Hallo",
+          "pronunciation": "sah-LAHM"
+        },
+        {
+          "farsi": "خداحافظ",
+          "romanization": "khodāhāfez",
+          "german": "Auf Wiedersehen",
+          "pronunciation": "kho-dah-HAH-fez"
+        },
+        {
+          "farsi": "ممنون",
+          "romanization": "mamnun",
+          "german": "Danke",
+          "pronunciation": "mam-NOON"
+        },
+        {
+          "farsi": "بله",
+          "romanization": "bale",
+          "german": "Ja",
+          "pronunciation": "bah-LEH"
+        },
+        {
+          "farsi": "نه",
+          "romanization": "na",
+          "german": "Nein",
+          "pronunciation": "NAH"
+        },
+        {
+          "farsi": "لطفاً",
+          "romanization": "lotfan",
+          "german": "Bitte",
+          "pronunciation": "lot-FAN"
+        },
+        {
+          "farsi": "چطوری؟",
+          "romanization": "četori?",
+          "german": "Wie geht's?",
+          "pronunciation": "che-TO-ri"
+        },
+        {
+          "farsi": "خوبم",
+          "romanization": "khubam",
+          "german": "Mir geht's gut",
+          "pronunciation": "khu-BAM"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Zahlen 1-10",
+      "level": "Anfänger",
+      "category": "Sprache",
+      "duration": "10 min",
+      "completed": false,
+      "vocabulary": [
+        {
+          "farsi": "یک",
+          "romanization": "yek",
+          "german": "eins",
+          "pronunciation": "YEK"
+        },
+        {
+          "farsi": "دو",
+          "romanization": "do",
+          "german": "zwei",
+          "pronunciation": "DOH"
+        },
+        {
+          "farsi": "سه",
+          "romanization": "se",
+          "german": "drei",
+          "pronunciation": "SEH"
+        },
+        {
+          "farsi": "چهار",
+          "romanization": "čahār",
+          "german": "vier",
+          "pronunciation": "cha-HAHR"
+        },
+        {
+          "farsi": "پنج",
+          "romanization": "panj",
+          "german": "fünf",
+          "pronunciation": "PANJ"
+        },
+        {
+          "farsi": "شش",
+          "romanization": "šeš",
+          "german": "sechs",
+          "pronunciation": "SHESH"
+        },
+        {
+          "farsi": "هفت",
+          "romanization": "haft",
+          "german": "sieben",
+          "pronunciation": "HAFT"
+        },
+        {
+          "farsi": "هشت",
+          "romanization": "hašt",
+          "german": "acht",
+          "pronunciation": "HASHT"
+        },
+        {
+          "farsi": "نه",
+          "romanization": "noh",
+          "german": "neun",
+          "pronunciation": "NOH"
+        },
+        {
+          "farsi": "ده",
+          "romanization": "dah",
+          "german": "zehn",
+          "pronunciation": "DAH"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Familie & Verwandtschaft",
+      "level": "Anfänger",
+      "category": "Sprache",
+      "duration": "20 min",
+      "completed": false,
+      "vocabulary": [
+        {
+          "farsi": "خانواده",
+          "romanization": "khānevāde",
+          "german": "Familie",
+          "pronunciation": "khah-ne-VAH-deh"
+        },
+        {
+          "farsi": "پدر",
+          "romanization": "pedar",
+          "german": "Vater",
+          "pronunciation": "pe-DAR"
+        },
+        {
+          "farsi": "مادر",
+          "romanization": "mādar",
+          "german": "Mutter",
+          "pronunciation": "mah-DAR"
+        },
+        {
+          "farsi": "برادر",
+          "romanization": "barādar",
+          "german": "Bruder",
+          "pronunciation": "ba-rah-DAR"
+        },
+        {
+          "farsi": "خواهر",
+          "romanization": "khāhar",
+          "german": "Schwester",
+          "pronunciation": "khah-HAR"
+        },
+        {
+          "farsi": "پسر",
+          "romanization": "pesar",
+          "german": "Sohn",
+          "pronunciation": "pe-SAR"
+        },
+        {
+          "farsi": "دختر",
+          "romanization": "dokhtar",
+          "german": "Tochter",
+          "pronunciation": "dokh-TAR"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Essen & Trinken",
+      "level": "Anfänger",
+      "category": "Sprache",
+      "duration": "20 min",
+      "completed": false,
+      "vocabulary": [
+        {
+          "farsi": "غذا",
+          "romanization": "ghazā",
+          "german": "Essen",
+          "pronunciation": "gha-ZAH"
+        },
+        {
+          "farsi": "آب",
+          "romanization": "āb",
+          "german": "Wasser",
+          "pronunciation": "AHB"
+        },
+        {
+          "farsi": "چای",
+          "romanization": "čāy",
+          "german": "Tee",
+          "pronunciation": "CHAI"
+        },
+        {
+          "farsi": "نان",
+          "romanization": "nān",
+          "german": "Brot",
+          "pronunciation": "NAHN"
+        },
+        {
+          "farsi": "برنج",
+          "romanization": "berenj",
+          "german": "Reis",
+          "pronunciation": "be-RENJ"
+        },
+        {
+          "farsi": "گوشت",
+          "romanization": "gušt",
+          "german": "Fleisch",
+          "pronunciation": "GOOSHT"
+        },
+        {
+          "farsi": "سبزی",
+          "romanization": "sabzi",
+          "german": "Gemüse",
+          "pronunciation": "sab-ZI"
+        },
+        {
+          "farsi": "میوه",
+          "romanization": "mive",
+          "german": "Obst",
+          "pronunciation": "mi-VEH"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Alltägliche Phrasen",
+      "level": "Mittel",
+      "category": "Sprache",
+      "duration": "25 min",
+      "completed": false,
+      "vocabulary": [
+        {
+          "farsi": "اسم شما چیست؟",
+          "romanization": "esm-e šomā čist?",
+          "german": "Wie ist Ihr Name?",
+          "pronunciation": "es-meh sho-MAH CHEEST"
+        },
+        {
+          "farsi": "من از آلمان هستم",
+          "romanization": "man az ālmān hastam",
+          "german": "Ich komme aus Deutschland",
+          "pronunciation": "man az ahl-MAHN has-TAM"
+        },
+        {
+          "farsi": "کجا می‌روی؟",
+          "romanization": "kojā miri?",
+          "german": "Wohin gehst du?",
+          "pronunciation": "ko-JAH mi-ri"
+        },
+        {
+          "farsi": "چقدر است؟",
+          "romanization": "čeqadr ast?",
+          "german": "Wie viel kostet es?",
+          "pronunciation": "che-GHADR ast"
+        },
+        {
+          "farsi": "متوجه نمی‌شوم",
+          "romanization": "motavajjeh nemišavam",
+          "german": "Ich verstehe nicht",
+          "pronunciation": "mo-ta-vaj-JEH ne-mi-sha-VAM"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Im Restaurant",
+      "level": "Mittel",
+      "category": "Sprache",
+      "duration": "20 min",
+      "completed": false,
+      "vocabulary": [
+        {
+          "farsi": "رستوران",
+          "romanization": "resturān",
+          "german": "Restaurant",
+          "pronunciation": "res-to-RAHN"
+        },
+        {
+          "farsi": "منو",
+          "romanization": "menu",
+          "german": "Speisekarte",
+          "pronunciation": "me-NU"
+        },
+        {
+          "farsi": "سفارش می‌دهم",
+          "romanization": "sefāreš midaham",
+          "german": "Ich bestelle",
+          "pronunciation": "se-FAH-resh mi-da-HAM"
+        },
+        {
+          "farsi": "حساب لطفاً",
+          "romanization": "hesāb lotfan",
+          "german": "Die Rechnung bitte",
+          "pronunciation": "he-SAHB lot-FAN"
+        },
+        {
+          "farsi": "خوشمزه بود",
+          "romanization": "khošmaze bud",
+          "german": "Es war lecker",
+          "pronunciation": "khosh-MA-zeh BOOD"
+        }
+      ]
+    }
+  ],
+  "historicalPeriods": [
+    {
+      "id": 1,
+      "title": "Das Achämenidenreich",
+      "period": "550-330 v. Chr.",
+      "category": "Geschichte",
+      "importance": "hoch",
+      "imageQuery": "ancient persia persepolis",
+      "description": "Das erste persische Großreich, gegründet von Kyros dem Großen. Es erstreckte sich von Indien bis Ägypten und war das größte Reich der antiken Welt.",
+      "keyFigures": [
+        {
+          "name": "Kyros II. der Große",
+          "nameFarsi": "کوروش بزرگ",
+          "role": "Gründer des Reiches",
+          "years": "559-530 v. Chr.",
+          "achievement": "Eroberte Medien, Lydien und Babylon; bekannt für Toleranz und Menschenrechte"
+        },
+        {
+          "name": "Dareios I.",
+          "nameFarsi": "داریوش یکم",
+          "role": "Organisator des Reiches",
+          "years": "522-486 v. Chr.",
+          "achievement": "Baute Persepolis, schuf effiziente Verwaltung und Straßensystem"
+        },
+        {
+          "name": "Xerxes I.",
+          "nameFarsi": "خشایارشا یکم",
+          "role": "König",
+          "years": "486-465 v. Chr.",
+          "achievement": "Führte Feldzüge gegen Griechenland"
+        }
+      ],
+      "keyEvents": [
+        "550 v. Chr.: Gründung durch Kyros",
+        "539 v. Chr.: Eroberung Babylons",
+        "518 v. Chr.: Bau von Persepolis beginnt",
+        "490 v. Chr.: Schlacht bei Marathon",
+        "480 v. Chr.: Schlacht bei Thermopylen",
+        "330 v. Chr.: Fall durch Alexander den Großen"
+      ],
+      "culturalImpact": "Der Kyros-Zylinder gilt als erste Menschenrechtserklärung. Das Reich war bekannt für religiöse Toleranz und fortschrittliche Verwaltung."
+    },
+    {
+      "id": 2,
+      "title": "Das Sassanidenreich",
+      "period": "224-651 n. Chr.",
+      "category": "Geschichte",
+      "importance": "hoch",
+      "imageQuery": "sassanid empire persia",
+      "description": "Das zweite persische Großreich, das den Zoroastrismus zur Staatsreligion erhob und als Rivale des Römischen Reiches galt.",
+      "keyFigures": [
+        {
+          "name": "Ardaschir I.",
+          "nameFarsi": "اردشیر یکم",
+          "role": "Gründer des Reiches",
+          "years": "224-242 n. Chr.",
+          "achievement": "Stürzte die Parther und gründete die Sassaniden-Dynastie"
+        },
+        {
+          "name": "Schapur I.",
+          "nameFarsi": "شاپور یکم",
+          "role": "Eroberer",
+          "years": "240-270 n. Chr.",
+          "achievement": "Besiegte drei römische Kaiser, darunter Valerian"
+        },
+        {
+          "name": "Chosrau I.",
+          "nameFarsi": "خسرو یکم",
+          "role": "Reformer",
+          "years": "531-579 n. Chr.",
+          "achievement": "Förderte Wissenschaft, Kunst und Literatur; Blütezeit des Reiches"
+        }
+      ],
+      "keyEvents": [
+        "224 n. Chr.: Gründung der Dynastie",
+        "260 n. Chr.: Gefangennahme Kaiser Valerians",
+        "531-579 n. Chr.: Goldene Ära unter Chosrau I.",
+        "602-628 n. Chr.: Kriege gegen Byzanz",
+        "651 n. Chr.: Fall durch arabische Eroberung"
+      ],
+      "culturalImpact": "Hochkultur mit bedeutenden Errungenschaften in Architektur, Kunst und Wissenschaft. Der Zoroastrismus prägte die Kultur nachhaltig."
+    },
+    {
+      "id": 3,
+      "title": "Das Safawidenreich",
+      "period": "1501-1736",
+      "category": "Geschichte",
+      "importance": "hoch",
+      "imageQuery": "safavid isfahan iran",
+      "description": "Die Dynastie, die den schiitischen Islam zur Staatsreligion machte und das moderne iranische Identität prägte.",
+      "keyFigures": [
+        {
+          "name": "Schah Ismail I.",
+          "nameFarsi": "شاه اسماعیل یکم",
+          "role": "Gründer",
+          "years": "1501-1524",
+          "achievement": "Gründete das Reich und machte den Schiismus zur Staatsreligion"
+        },
+        {
+          "name": "Schah Abbas I.",
+          "nameFarsi": "شاه عباس یکم",
+          "role": "Größter Herrscher",
+          "years": "1588-1629",
+          "achievement": "Machte Isfahan zur prachtvollen Hauptstadt; Blütezeit der persischen Kunst"
+        }
+      ],
+      "keyEvents": [
+        "1501: Gründung durch Ismail I.",
+        "1514: Schlacht von Tschaldiran gegen Osmanen",
+        "1598: Isfahan wird Hauptstadt",
+        "1622: Vertreibung der Portugiesen aus Hormuz",
+        "1736: Ende der Dynastie"
+      ],
+      "culturalImpact": "Schaffung der iranischen nationalen Identität. Blüte der persischen Miniaturmalerei, Architektur (Isfahan) und Poesie."
+    },
+    {
+      "id": 4,
+      "title": "Persische Literatur & Poesie",
+      "period": "9. Jh. - heute",
+      "category": "Kultur",
+      "importance": "hoch",
+      "imageQuery": "persian poetry manuscript",
+      "description": "Die persische Literatur gehört zu den reichsten der Welt, mit Dichtern wie Rumi, Hafis und Ferdowsi.",
+      "keyFigures": [
+        {
+          "name": "Ferdowsi",
+          "nameFarsi": "فردوسی",
+          "role": "Nationaldichter",
+          "years": "940-1020",
+          "achievement": "Autor des Schahname (Königsbuch), Nationalepos Irans mit 60.000 Versen"
+        },
+        {
+          "name": "Rumi (Dschalaladin)",
+          "nameFarsi": "مولانا جلال‌الدین رومی",
+          "role": "Mystiker & Dichter",
+          "years": "1207-1273",
+          "achievement": "Gründer des Mevlevi-Ordens, meistgelesener Dichter in den USA"
+        },
+        {
+          "name": "Hafis",
+          "nameFarsi": "حافظ",
+          "role": "Lyriker",
+          "years": "1315-1390",
+          "achievement": "Meister des Ghasels, sein Diwan ist in jedem iranischen Haushalt"
+        },
+        {
+          "name": "Omar Khayyam",
+          "nameFarsi": "عمر خیام",
+          "role": "Dichter & Mathematiker",
+          "years": "1048-1131",
+          "achievement": "Rubāʿiyyāt (Vierzeiler), auch bedeutender Astronom"
+        },
+        {
+          "name": "Saadi",
+          "nameFarsi": "سعدی",
+          "role": "Dichter & Moralphilosoph",
+          "years": "1210-1291",
+          "achievement": "Golestan (Rosengarten) und Bustan (Obstgarten)"
+        }
+      ],
+      "keyEvents": [
+        "10. Jh.: Persisch wird literarische Sprache",
+        "1010: Fertigstellung des Schahname",
+        "13. Jh.: Blütezeit der Sufi-Dichtung",
+        "14. Jh.: Goldene Ära der Lyrik (Hafis)"
+      ],
+      "culturalImpact": "Die persische Poesie beeinflusste die gesamte islamische Welt. Werke wie das Schahname bewahrten die vorislamische persische Identität."
+    },
+    {
+      "id": 5,
+      "title": "Persische Architektur",
+      "period": "6. Jh. v. Chr. - heute",
+      "category": "Kultur",
+      "importance": "mittel",
+      "imageQuery": "persian architecture isfahan mosque",
+      "description": "Von Persepolis bis zu den blauen Kuppeln Isfahans - persische Architektur ist weltberühmt für ihre Eleganz und mathematische Präzision.",
+      "keyFigures": [
+        {
+          "name": "Dareios I.",
+          "nameFarsi": "داریوش یکم",
+          "role": "Bauherr",
+          "years": "522-486 v. Chr.",
+          "achievement": "Erbauer von Persepolis"
+        },
+        {
+          "name": "Schah Abbas I.",
+          "nameFarsi": "شاه عباس یکم",
+          "role": "Bauherr",
+          "years": "1588-1629",
+          "achievement": "Gestaltung des Naqsch-e Dschahan-Platzes in Isfahan"
+        }
+      ],
+      "keyEvents": [
+        "518 v. Chr.: Bau von Persepolis beginnt",
+        "1598: Umbau Isfahans zur prachtvollen Hauptstadt",
+        "1611: Fertigstellung der Scheich-Lotfollah-Moschee",
+        "1629: Fertigstellung der Imam-Moschee"
+      ],
+      "culturalImpact": "Einfluss auf die Architektur der gesamten islamischen Welt. Die Verwendung von Iwanen, Kuppeln und Kalligrafie wurde zum Standard."
+    }
+  ]
+}
