@@ -50,26 +50,7 @@ export default function ImpressumView() {
             </div>
           </div>
 
-          {/* Tech Stack */}
-          <div className="flex items-start gap-4">
-            <div className="w-12 h-12 bg-[#591117] rounded-lg flex items-center justify-center flex-shrink-0">
-              <Code className="w-6 h-6 text-[#F2EFDC]" />
-            </div>
-            <div>
-              <h3 className="text-xl font-bold text-[#591117] mb-2">
-                Technologie
-              </h3>
-              <p className="text-[#591117]/80 mb-2">
-                Diese PWA wurde entwickelt mit:
-              </p>
-              <ul className="list-disc list-inside space-y-1 text-[#591117]/70">
-                <li>Vue 3 + Quasar Framework (Original)</li>
-                <li>React + Vite (Demo-Version)</li>
-                <li>Vite PWA Plugin</li>
-                <li>Workbox für Service Worker</li>
-              </ul>
-            </div>
-          </div>
+        
 
           {/* License */}
           <div className="flex items-start gap-4">
@@ -120,13 +101,7 @@ export default function ImpressumView() {
             </p>
           </div>
 
-          {/* Console Log Info */}
-          <div className="p-4 bg-[#BF6363]/10 rounded-lg border border-[#BF6363]/20">
-            <p className="text-sm text-[#591117]">
-              📝 <strong>Hinweis:</strong> Der Entwicklername wird in der Browser-Console 
-              ausgegeben (siehe DevTools → Console).
-            </p>
-          </div>
+      
         </div>
       </Card>
     </div>
